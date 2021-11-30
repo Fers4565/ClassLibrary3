@@ -4,6 +4,9 @@ namespace ClassLibrary3
 {
     public class Class1
     {
-        sdsdsdsd
+        public Class1()
+        {
+            Console.Write("");
+        }
     }
 }
