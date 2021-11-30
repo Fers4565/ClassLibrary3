@@ -6,7 +6,7 @@ namespace ClassLibrary3
     {
         public Class1()
         {
-            Console.Write("df");
+            Console.Write("From asas");
         }
     }
 }
