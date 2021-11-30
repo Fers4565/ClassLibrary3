@@ -4,6 +4,11 @@ namespace ClassLibrary3
 {
     public class Class1
     {
-        Hola
+
+        public Class1()
+        {
+            Console.Write("From asas");
+        }
+
     }
 }
