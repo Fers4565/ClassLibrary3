@@ -7,6 +7,7 @@ namespace ClassLibrary3
         public Class1()
         {
             Console.Write("From asas");
+            Console.Write("From 222");
         }
     }
 }
