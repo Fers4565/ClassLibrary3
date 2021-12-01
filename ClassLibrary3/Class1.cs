@@ -8,6 +8,8 @@ namespace ClassLibrary3
         {
             Console.Write("From asas");
             Console.Write("From 222");
+            Console.Write("From 222");
+            Console.Write("From 4");
         }
     }
 }
